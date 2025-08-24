@@ -27,11 +27,11 @@ The Docker image is [here](https://hub.docker.com/repository/docker/timothystewa
 
 The web UI will be hosted on port `10981`.
 
-![alt text](https://github.com/techno-tim/techno-broadlink/blob/master/techno-broadlink.jpg?raw=true)
+![alt text](https://github.com/timothystewart6/techno-broadlink/blob/master/techno-broadlink.jpg?raw=true)
 
 ## Web API
 
-The web API will be hosted on port `10981`.  I included a Postman collection [here](https://github.com/techno-tim/techno-broadlink/tree/master/postman)
+The web API will be hosted on port `10981`.  I included a Postman collection [here](https://github.com/timothystewart6/techno-broadlink/tree/master/postman)
 
 ## Credits
 

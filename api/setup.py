@@ -9,7 +9,7 @@ setup(
     name='broadlink_service',
     version=version,
     author='Timothy Stewart',
-    url='http://github.com/techno-tim/techno-broadlink',
+    url='http://github.com/timothystewart6/techno-broadlink',
     packages=find_packages(),
     scripts=[],
     install_requires=['cryptography>=2.1.1'],

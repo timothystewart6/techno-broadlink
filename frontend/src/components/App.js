@@ -60,7 +60,7 @@ function App() {
   };
 
   const handleDocumentationClick = () => {
-    window.location = 'https://github.com/techno-tim/techno-broadlink';
+    window.location = 'https://github.com/timothystewart6/techno-broadlink';
   };
   const Alert = props => {
     return <MuiAlert elevation={6} variant="filled" {...props} />;

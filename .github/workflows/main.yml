@@ -128,4 +128,4 @@ jobs:
           push: true
           tags: |
             timothystewart6/techno-broadlink:latest
-            ghcr.io/techno-tim/techno-broadlink:latest
+            ghcr.io/timothystewart6/techno-broadlink:latest
