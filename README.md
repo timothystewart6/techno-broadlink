@@ -47,7 +47,7 @@ This would not be possible without [mjg59/python-broadlink](https://github.com/m
 
 ► Twitter  <https://twitter.com/TechnoTimLive>
 
-► Discord <https://l.technotim.live/discord>
+► Discord <https://l.technotim.com/discord>
 
 ► Instagram <https://www.instagram.com/techno.tim/>
 
